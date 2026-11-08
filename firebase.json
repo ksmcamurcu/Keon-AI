@@ -1,0 +1,10 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "databases": {
+      "ai-studio-android-keonai-18372482-3d4a-45ea-b7e1-73952fb79dd3": {
+        "rules": "firestore.rules"
+      }
+    }
+  }
+}

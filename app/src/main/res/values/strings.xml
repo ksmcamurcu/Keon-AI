@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Keon Store</string>
+    <string name="accessibility_service_description">Keon AI 3D Küp Asistanı ve Erişilebilirlik Hizmeti. Başka uygulamalar açıkken ekran üzerinde 1/20 boyutunda 3D Küp Asistanı gösterir ve sesli komutları işler.</string>
+</resources>
